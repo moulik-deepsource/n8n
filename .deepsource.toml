@@ -13,5 +13,6 @@ enabled = true
     "packages/core/package.json",
     "packages/node-dev/package.json",
     "packages/nodes-base/package.json",
-    "packages/workflow/package.json"
+    "packages/workflow/package.json",
+    "packages/editor-ui/package.json"
   ]
