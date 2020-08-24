@@ -1,0 +1,17 @@
+version = 1
+
+[[analyzers]]
+name = "javascript"
+enabled = true
+
+  [analyzers.meta]
+  environment = ["node"]
+  ecma_version = 2017
+  dialect = "typescript"
+  dependency_file_paths = [ 
+    "packages/cli/package.json", 
+    "packages/core/package.json",
+    "packages/node-dev/package.json",
+    "packages/nodes-base/package.json",
+    "packages/workflow/package.json"
+  ]
