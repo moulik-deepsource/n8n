@@ -6,7 +6,7 @@ enabled = true
 
   [analyzers.meta]
   environment = ["nodejs"]
-  ecma_version = 2017
+  ecma_version = "2017"
   dialect = "typescript"
   dependency_file_paths = [ 
     "packages/cli/package.json", 
