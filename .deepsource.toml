@@ -5,7 +5,7 @@ name = "javascript"
 enabled = true
 
   [analyzers.meta]
-  environment = ["node"]
+  environment = ["nodejs"]
   ecma_version = 2017
   dialect = "typescript"
   dependency_file_paths = [ 
