@@ -16,3 +16,4 @@ enabled = true
     "packages/workflow/package.json",
     "packages/editor-ui/package.json"
   ]
+  plugins = ['vue']
